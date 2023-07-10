@@ -1,20 +1,23 @@
 ### Hi there 👋
 
-I'm Ryan, an accomplished senior cybersecurity professional with a robust background encompassing 7+ years of expertise in networking, voice, system administration, cloud (AWS/Azure), and web development. I am also an aspiring DevOps Engineer with an interest in DevSecOps 👋
+I'm Ryan, an accomplished senior cybersecurity professional with a robust background encompassing 7+ years of expertise in networking, voice, system administration, cloud (AWS/Azure), and web development using HTML, CSS, JavaScript and popular libraries. I also have experience in popular DevOps tools with a particular interest in growing my DevSecOps knowledge so I can create and maintain DevSecOps pipelines using SCA, SAST, DAST, and Security as Code.
+ 👋
 
-Over the next few months I will be showcasing some personal projects I have done in order to better demonstrate my hands-on experience with various tools and technologies used in DevOps.
+🧑‍💻 My current and developing skills are: 
 
-🧑‍💻 My current and developing DevOps skills are: 
-
-- AWS Services (EC2 | S3 | RDS | IAM | ECS & more)
-- IaC (AWS CloudFormation | Terraform)
-- CI/CD (AWS CodeCommit | CodeBuild | CodePipeline | Jenkins)
+- AWS Services (ECS | EKS | EC2 | S3 | RDS | VPC | API Gateway | IAM | CloudWatch | ASG & more)
+- CI/CD (CodeBuild | CodePipeline | Jenkins)
 - Containerization & Orchestration (Docker | Kubernetes (K8s))
-- Basic Scripting / Automation (Python | Bash)
+- Scripting / Automation (Python | Bash)
 - Configuration Management (Ansible)
 - Monitoring (AWS CloudWatch | Splunk | Prometheus | Nagios)
-- Linux Administration (Ubuntu | CentOS)
+- Linux (Ubuntu | CentOS)
+- Source contol (GIT | soon GitLab)
+- Databases (MySQL | MariaDB)
 
-Articles on Past Projects Below 👇👇 
+Looking to dive into:
 
-Coming Soon!!
+- IaC (AWS CloudFormation | Terraform)
+- SCA, SAST & DAST
+
+Will create repos that reflect my interests where possible. 
