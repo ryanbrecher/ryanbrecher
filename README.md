@@ -6,18 +6,20 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 🧑‍💻 My current and developing skills are: 
 
 - AWS Services (ECS | EKS | EC2 | S3 | RDS | VPC | API Gateway | IAM | CloudWatch | ASG & more)
-- CI/CD (CodeBuild | CodePipeline | Jenkins)
+- CI/CD (Jenkins)
 - Containerization & Orchestration (Docker | Kubernetes (K8s))
 - Scripting / Automation (Python | Bash)
 - Configuration Management (Ansible)
 - Monitoring (AWS CloudWatch | Splunk | Prometheus | Nagios)
 - Linux (Ubuntu | CentOS)
-- Source contol (GIT | soon GitLab)
+- Source contol (GIT)
 - Databases (MySQL | MariaDB)
 
 Looking to dive into:
 
 - IaC (AWS CloudFormation | Terraform)
 - SCA, SAST & DAST
-
+- CI/CD (CodeBuild | CodePipeline)
+- Will also be puttig in more Python scripts too
+  
 Will create repos that reflect my interests where possible. 
