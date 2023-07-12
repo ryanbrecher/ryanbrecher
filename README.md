@@ -31,7 +31,7 @@ Diving into:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,gitlab,go,,jenkins,maven,php,prometheus" />
+    <img src="https://skillicons.dev/icons?i=ansible,gitlab,go,jenkins,maven,php,prometheus" />
   </a>
 </p>
   
