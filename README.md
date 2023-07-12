@@ -13,7 +13,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 - Source contol (GitHub)
 - Databases (MySQL | MariaDB)
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,bash,git,github,kubernetes,docker,vim,html,css,js,jquery,nginx,linux,mysql,py,rabbitmq,regex,vscode,wordpress" />
   </a>
@@ -29,7 +29,7 @@ Skills I want to develop and explore:
 - Source contol (GitLab)
 - Will also be puttig in more Python scripts too
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ansible,gitlab,go,jenkins,maven,php,prometheus" />
   </a>
