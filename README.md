@@ -20,7 +20,8 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 </p>
 
 <br>
-💪 **Skills I want to develop and explore:**
+
+💪 **Skills I want to develop and explore:** 
 <br>
 - IaC (AWS CloudFormation | Terraform)
 - SCA, SAST & DAST
