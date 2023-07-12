@@ -3,8 +3,8 @@
 I'm Ryan, an accomplished senior cybersecurity professional with a robust background encompassing 7+ years of expertise in networking, voice, system administration, cloud (AWS/Azure), and web development using HTML, CSS, JavaScript and popular libraries. I also have experience in DevOps tools with a particular interest in growing my DevSecOps knowledge so I can create and maintain DevSecOps pipelines using SCA, SAST, DAST, and Security as Code.
  👋
 
-🧑‍💻 My current skills are: 
-
+🧑‍💻 **My current skills are:** 
+<br>
 - AWS Services 
 - Containerization & Orchestration (Docker | Kubernetes (K8s))
 - Scripting (Python | Bash)
@@ -19,8 +19,9 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
   </a>
 </p>
 
-Skills I want to develop and explore:
-
+<br>
+💪 **Skills I want to develop and explore:**
+<br>
 - IaC (AWS CloudFormation | Terraform)
 - SCA, SAST & DAST
 - CI/CD (CodeBuild | CodePipeline | Jenkins)
@@ -34,5 +35,6 @@ Skills I want to develop and explore:
     <img src="https://skillicons.dev/icons?i=ansible,gitlab,go,jenkins,maven,php,prometheus" />
   </a>
 </p>
-  
+
+<br>
 Will create repos that reflect my interests where possible. 
