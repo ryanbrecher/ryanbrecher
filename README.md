@@ -13,6 +13,12 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 - Source contol (GitHub)
 - Databases (MySQL | MariaDB)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,git,github,kubernetes,docker,vim,html,css,js,jquery,nginx,linux,mysql,py,rabbitmq,regex,vscode,wordpress" />
+  </a>
+</p>
+
 Diving into:
 
 - IaC (AWS CloudFormation | Terraform)
@@ -22,5 +28,11 @@ Diving into:
 - Monitoring (Prometheus)
 - Source contol (GitLab)
 - Will also be puttig in more Python scripts too
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ansible,gitlab,go,,jenkins,maven,php,prometheus" />
+  </a>
+</p>
   
 Will create repos that reflect my interests where possible. 
