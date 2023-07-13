@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Ryan, an accomplished senior cybersecurity professional with a robust background encompassing 7+ years of expertise in networking, voice, system administration, cloud (AWS/Azure), and web development using HTML, CSS, JavaScript and popular libraries. I've primarily worked with and for ISPs, MSPs and MSSPs. I also have experience in DevOps tools with a particular interest in growing my DevSecOps knowledge so I can create and maintain DevSecOps pipelines using SCA, SAST, DAST, and Security as Code.
- 👋
+I'm Ryan, an accomplished senior cybersecurity professional with a robust background encompassing 7+ years of expertise in networking, voice, system administration, cloud (AWS/Azure), and web development using HTML, CSS, JavaScript and popular libraries. I've primarily worked at an global ISP/MSPs for over 5 years and now with working with a gloabl MSSP for the last 2 years. I also have experience in DevOps tools with a particular interest in growing my knowledge.
 
 🧑‍💻 **A few of my key skills are:** 
 <br>
@@ -21,7 +20,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 <br>
 
-💪 **Skills I want to develop and explore:** 
+💪 **Skills I want to further develop:** 
 <br>
 - IaC (AWS CloudFormation | Terraform)
 - SCA, SAST & DAST
