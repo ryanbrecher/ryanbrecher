@@ -4,8 +4,9 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 🧑‍💻 **A few of my key skills are:** 
 <br>
-- AWS Services 
+- AWS Services (EC2, S3, RDS, ELB, EBS, IAM, CloudWatch)
 - Containerization & Orchestration (Docker | Kubernetes (K8s))
+- CI/CD (Jenkins)
 - Scripting (Python | Bash)
 - Monitoring (AWS CloudWatch | Splunk | Nagios)
 - Linux (Ubuntu | CentOS)
@@ -20,11 +21,12 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 <br>
 
-💪 **Skills I want to further develop:** 
+💪 **Skills I am currently developing further:** 
 <br>
+- AWS (Lambda)
 - IaC (AWS CloudFormation | Terraform)
 - SCA, SAST & DAST
-- CI/CD (CodeBuild | CodePipeline | Jenkins)
+- CI/CD (CodeBuild | CodePipeline)
 - Configuration Management (Ansible)
 - Monitoring (Prometheus)
 - Source contol (GitLab)
