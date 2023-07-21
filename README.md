@@ -4,7 +4,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 🧑‍💻 **A few of my key skills are:** 
 <br>
-- AWS Services (EC2, S3, RDS, ELB, EBS, IAM, CloudWatch)
+- AWS Services (EC2, S3, RDS, ELB, ASG, EBS, IAM, CloudWatch)
 - Containerization & Orchestration (Docker | Kubernetes (K8s))
 - CI/CD (Jenkins)
 - Scripting (Python | Bash)
