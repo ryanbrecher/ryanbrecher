@@ -15,7 +15,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,bash,git,github,kubernetes,docker,vim,html,css,js,jquery,nginx,linux,mysql,py,rabbitmq,regex,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,git,github,kubernetes,docker,jenkins,vim,html,css,js,jquery,nginx,linux,mysql,py,rabbitmq,regex,vscode,wordpress" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,gitlab,go,jenkins,maven,php,prometheus" />
+    <img src="https://skillicons.dev/icons?i=ansible,gitlab,go,maven,php,prometheus" />
   </a>
 </p>
 
