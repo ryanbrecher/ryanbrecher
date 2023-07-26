@@ -4,14 +4,16 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 🧑‍💻 **A few of my key skills are:** 
 <br>
-- AWS Services (EC2, S3, RDS, ELB, ASG, EBS, IAM, CloudWatch)
-- Containerization & Orchestration (Docker | Kubernetes (K8s))
+- AWS Services (EC2, S3, ELB, ASG, IAM, CloudWatch)
+- Containerization (Docker)
 - CI/CD (Jenkins)
-- Scripting (Python | Bash)
+- SCA (Snyk), SAST (Horuspec) & DAST (OWASP ZAP)
+- Basic Programming & Scripting (Python | JavaScript | Bash)
 - Monitoring (AWS CloudWatch | Splunk | Nagios)
 - Linux (Ubuntu | CentOS)
 - Source contol (GitHub)
 - Databases (MySQL | MariaDB)
+- Markup (HTML, JSON, YAML)
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -25,9 +27,9 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 <br>
 - AWS (Lambda)
 - IaC (AWS CloudFormation | Terraform)
-- SCA, SAST & DAST
 - CI/CD (CodeBuild | CodePipeline)
 - Configuration Management (Ansible)
+- Container Ochestration (Kubernetes (K8s)
 - Monitoring (Prometheus)
 - Source contol (GitLab)
 - Will also be puttig in more Python scripts too
