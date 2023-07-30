@@ -37,6 +37,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 - Container Ochestration (Kubernetes (K8s)
 - Monitoring (Prometheus)
 - Source contol (GitLab)
+- API Security
 - Will also be puttig in more Python scripts too
 
 <p align="left">
