@@ -4,7 +4,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 🧑‍💻 **A few of my key skills are:** 
 <br>
-- AWS Services (EC2, S3, ELB, ASG, IAM, CloudWatch)
+- AWS Services
 - Containerization (Docker)
 - CI/CD (Jenkins)
 - SCA (Snyk), SAST (Horuspec/SonarCloud) & DAST (OWASP ZAP)
