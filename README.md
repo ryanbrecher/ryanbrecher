@@ -7,7 +7,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 - AWS Services (EC2, S3, ELB, ASG, IAM, CloudWatch)
 - Containerization (Docker)
 - CI/CD (Jenkins)
-- SCA (Snyk), SAST (Horuspec) & DAST (OWASP ZAP)
+- SCA (Snyk), SAST (Horuspec/SonarCloud) & DAST (OWASP ZAP)
 - Basic Programming & Scripting (Python | JavaScript | Bash)
 - Monitoring (AWS CloudWatch | Splunk | Nagios)
 - Linux (Ubuntu | CentOS)
@@ -17,7 +17,12 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,git,github,docker,jenkins,vim,html,css,js,jquery,php,nginx,linux,mysql,py,rabbitmq,regex,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=aws,bash,git,github">
+        <img src="https://skillicons.dev/icons?i=docker,jenkins,vim,html">
+            <img src="https://skillicons.dev/icons?i=css,js,jquery,php,nginx,linux,mysql,py,rabbitmq,regex,vscode,wordpress">
+              <img src ="https://github.com/DrllSGT/JenkinsFile-Snyk-SCA-JavaApp/assets/52445175/ff84aab7-372e-4113-9049-fe7dbe4abcc7" width=48> 
+              <img src="https://github.com/DrllSGT/JenkinsFile-SonarCloud-SAST-JavaApp/assets/52445175/0a35f318-c65a-4b32-b060-fcdbdbe098d9" width=48>
+              <img src ="https://github.com/DrllSGT/AWS-EC2-Terraform-Config/assets/52445175/0589c912-b092-4e72-b4ed-b1c2f0626761" width=48>
   </a>
 </p>
 
@@ -36,7 +41,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,azure,gitlab,go,maven,prometheus,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=ansible,azure,gitlab,go,prometheus,kubernetes" />
   </a>
 </p>
 
