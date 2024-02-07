@@ -8,8 +8,8 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 - Containerization (Docker)
 - CI/CD (Jenkins)
 - SCA (Snyk), SAST (Horuspec/SonarCloud) & DAST (OWASP ZAP)
-- Basic Programming & Scripting (Python | JavaScript | Bash)
-- Monitoring (AWS CloudWatch | Splunk | Nagios)
+- Programming & Scripting (Python | Bash)
+- Monitoring (AWS CloudWatch | Splunk | Nagios | Prometheus)
 - Linux (Ubuntu | CentOS)
 - Source contol (GitHub)
 - Databases (MySQL | MariaDB)
@@ -35,7 +35,6 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 - CI/CD (CodeBuild | CodePipeline)
 - Configuration Management (Ansible)
 - Container Ochestration (Kubernetes (K8s)
-- Monitoring (Prometheus)
 - Source contol (GitLab)
 - API Security
 - Will also be puttig in more Python scripts too
