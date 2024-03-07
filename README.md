@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ryan, an accomplished senior cybersecurity professional with a robust background encompassing 7+ years of expertise in networking, voice, system administration, cloud (AWS/Azure), and web development using HTML, CSS, JavaScript and popular libraries. I've primarily worked at global ISP/MSPs for over 5 years and now with a gloabl MSSP for the last several years. I also have some hands-on experience with DevOps tools with a particular interest in growing my knowledge in DevSecOps.
+I'm Ryan, an accomplished senior cybersecurity professional with a robust background encompassing 8 years of expertise in networking, voice, system administration, cloud (AWS/Azure), security and web development. I've primarily worked at global ISP/MSPs and over the last several years for a leading security services provider. I also have some hands-on experience with DevOps tools with a growing expertise in DevSecOps practices in shifting security left.
 
 🧑‍💻 **A few of my key skills are:** 
 <br>
