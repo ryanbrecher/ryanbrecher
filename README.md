@@ -10,7 +10,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 - IaC (Terraform)
 - SCA, SAST & DAST Tools 
 - Scripting (Python | Bash)
-- Monitoring (AWS CloudWatch | Splunk | Prometheus | CrowdStrike)
+- Monitoring (AWS CloudWatch | Splunk | CrowdStrike)
 - Linux (Ubuntu | CentOS)
 - Source contol (GitHub)
 - Databases (MySQL | MariaDB)
@@ -40,7 +40,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,gitlab,go,prometheus,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=ansible,gitlab,go,kubernetes" />
   </a>
 </p>
 
