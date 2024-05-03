@@ -20,11 +20,10 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,bash,git,github,githubactions">
-        <img src="https://skillicons.dev/icons?i=docker,jenkins,vim,html">
-            <img src="https://skillicons.dev/icons?i=css,js,jquery,linux,mysql,py,regex,vscode">
+        <img src="https://skillicons.dev/icons?i=docker,jenkins,vim,html,css,js,jquery,stackoverflow,apple,windows">
+            <img src="https://skillicons.dev/icons?i=md,grafana,prometheus,linux,ubuntu,kali,powershell,mysql,py,regex,vscode,kali,postman,terraform">
               <img src ="https://github.com/DrllSGT/JenkinsFile-Snyk-SCA-JavaApp/assets/52445175/ff84aab7-372e-4113-9049-fe7dbe4abcc7" width=48> 
               <img src="https://github.com/DrllSGT/JenkinsFile-SonarCloud-SAST-JavaApp/assets/52445175/0a35f318-c65a-4b32-b060-fcdbdbe098d9" width=48>
-              <img src ="https://github.com/DrllSGT/AWS-EC2-Terraform-Config/assets/52445175/0589c912-b092-4e72-b4ed-b1c2f0626761" width=48>
   </a>
 </p>
 
@@ -33,6 +32,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 💪 **Skills I am wanting to develop further:** 
 <br>
 - AWS (Cloudformation | CodeBuild | CodePipeline)
+- Azure DevOps
 - Configuration Management (Ansible)
 - Container Ochestration (Kubernetes)
 - Source contol (GitLab)
@@ -40,7 +40,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,gitlab,go,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,ansible,gitlab,go,kubernetes" />
   </a>
 </p>
 
