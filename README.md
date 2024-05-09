@@ -40,7 +40,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,ansible,gitlab,go,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,ansible,gitlab,go,kubernetes" />
   </a>
 </p>
 
