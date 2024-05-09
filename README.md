@@ -20,10 +20,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,bash,git,github,githubactions,docker,jenkins">
-    <img src="https://skillicons.dev/icons?i=vim,html,css,js,jquery,stackoverflow,apple,windows">
-    <img src="https://skillicons.dev/icons?i=md,grafana,prometheus,linux,ubuntu,kali,powershell">
-    <img src="https://skillicons.dev/icons?i=mysql,py,regex,vscode,kali,terraform,postman">
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,git,github,githubactions,docker,jenkins,vim,html,css,js,jquery,stackoverflow,apple,windows,md,grafana,prometheus,linux,ubuntu,kali,powershell,mysql,py,regex,vscode,kali,terraform,postman">
   </a>
     <img src ="https://github.com/DrllSGT/DrllSGT/assets/52445175/4fdabb67-dc6e-4086-808d-8bab493fcb78" width=48>
     <img src ="https://github.com/DrllSGT/JenkinsFile-Snyk-SCA-JavaApp/assets/52445175/ff84aab7-372e-4113-9049-fe7dbe4abcc7" width=48> 
