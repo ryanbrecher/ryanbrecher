@@ -6,17 +6,17 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 <br>
 - AWS Security & Monitoring
 - Containerization (Docker)
-- CI/CD (Github Actions, Jenkins)
+- CI/CD (Github Actions | Jenkins)
 - IaC (Terraform)
 - SCA, SAST & DAST Tools 
 - Scripting (Python | Bash)
-- Monitoring (AWS CloudWatch | Splunk | CrowdStrike)
+- Monitoring (Splunk | CrowdStrike | Prometheus | Grafana)
 - Linux (Ubuntu | CentOS | Kali)
 - Source contol (GitHub)
 - Databases (MySQL | MariaDB)
 - Markup (HTML, JSON, YAML)
-- API Security Tools (Postman, Burpsuite)
-- Ticket Management (ServiceNow, Jira)
+- API Security Tools (Postman | Burpsuite)
+- Ticket Management (ServiceNow | Jira)
 
 <p align="left">
   <a href="https://skillicons.dev">
