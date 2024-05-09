@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ryan, an accomplished senior cybersecurity professional with a robust background encompassing 8 years of expertise in networking, voice, system administration, cloud (AWS/Azure), and cyber security. I've worked at global ISP/MSPs and over the last several years for a leading security services provider as their principle cyber security consultant. I also have hands-on experience with DevOps tools and continually growing my expertise in DevSecOps to shift security left.
+I'm Ryan, an accomplished senior cybersecurity professional with a robust background encompassing 8 years of expertise in networking, voice, system administration, cloud (AWS/Azure), and cyber security. I've worked at global ISP/MSPs and over the last several years for a leading security services provider as their principle cyber security consultant. I also have hands-on experience with DevOps tools and continually growing my expertise as a life long learner. I'm passionate about securing application pipelines, I prioritise shifting security left and implementing robust security best practices and scanning such as software composition analysis (SCA), Static Application Security Testing (SAST), and Dynamic Application Security Testing (DAST). I'm deeply engaged in staying ahead of emerging trends shaping the future of application security in the cloud while leveraging AI advancements securely. I'm a strong advocate for embedding security champions across multiple teams by promoting collaboration and knowledge sharing which significantly cuts the cost and time spent remediating vulnerabilities.
 
 🧑‍💻 **A few of my key skills are:** 
 <br>
@@ -52,8 +52,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
   </a>
 </p>
 
-<br>
-Will create repos that reflect my interests where possible. 
+**NOTE** - Will create repos that reflect my interests where possible. 
 <br>
 <br>
 
