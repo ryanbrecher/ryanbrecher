@@ -58,12 +58,18 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 
 ☁️ **Certications I am working towards:** 
 <br>
+
+**2024**
 - Certified DevSecOps Professional (CDP)
 - HashiCorp Certified: Terraform Associate (003)
 - AWS Certified Solutions Architect - Associate
+  
+**2025**
 - AWS Certified Security - Specialty
 - Certified Threat Modeling Professional (CTMP)
 - Certified Container Security Expert (CCSE)
+
+**2026**
 - Certified Cloud Native Security Expert  (CCNSE)
 - ISC2 Certified Secure Software Lifecycle Professional (CSSLP)
 - ISC2 Certified Cloud Security Professional (CCSP)
