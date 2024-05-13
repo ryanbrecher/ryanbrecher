@@ -56,21 +56,16 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 <br>
 <br>
 
-☁️ **Certications I am working towards:** 
+☁️ **Certications Goals:** 
 <br>
 
-**2024**
+
 - Certified DevSecOps Professional (CDP)
 - HashiCorp Certified: Terraform Associate (003)
 - AWS Certified Solutions Architect - Associate
-  
-**2025**
 - AWS Certified Security - Specialty
 - Certified Threat Modeling Professional (CTMP)
-- Certified Container Security Expert (CCSE)
-
-**2026**
-- Certified Cloud Native Security Expert  (CCNSE)
+- OffSec Certified Professional (OSCP) 
 - ISC2 Certified Secure Software Lifecycle Professional (CSSLP)
 - ISC2 Certified Cloud Security Professional (CCSP)
 
@@ -80,8 +75,7 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 <img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/6b89a6d9-c1e7-412e-8094-e35c72b0ac52" width=49>
 <img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/498341f8-c57c-4542-aca4-e4dd87a13e99" width=54>
 <img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/f7105f54-ade5-4867-9932-7d2ea090128a" width=48>
-<img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/58a0fdc6-f6e8-47f5-9801-cc2372d4c1d3)" width=48>
-<img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/d10ab1f3-545a-45dc-9393-495c569be97a" width=48>
+<img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/04490921-e3fc-41e2-9c3d-41b04e5f7372" width=48>
 <img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/3700c398-2158-4064-be04-d28f0df526cb" width=48>
 <img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/06294af1-b1df-4035-8459-437880b3c8d8" width=48>
 
