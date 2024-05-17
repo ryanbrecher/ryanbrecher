@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey there 👋
 
-I'm Ryan, an accomplished senior cybersecurity professional with a robust background encompassing 8 years of expertise in networking, voice, system administration, cloud (AWS/Azure), and cyber security. I've worked at global ISP/MSPs and over the last several years for a leading security services provider as their principle cyber security consultant. I also have hands-on experience with DevOps tools and continually growing my expertise as a life long learner. I'm passionate about securing application pipelines, I prioritise shifting security left and implementing robust security best practices and scanning such as software composition analysis (SCA), Static Application Security Testing (SAST), and Dynamic Application Security Testing (DAST). I'm deeply engaged in staying ahead of emerging trends shaping the future of application security in the cloud while leveraging AI advancements securely. I'm a strong advocate for embedding security champions across multiple teams by promoting collaboration and knowledge sharing which significantly cuts the cost and time spent remediating vulnerabilities.
+I’m Ryan! I’ve been in the IT and cyber security game for a while, focusing on SecOps, DevSecOps and AWS cloud security. My goal is to make sure application pipelines are rock-solid with top-notch security practices. I’m all about working seamlessly with IT Ops, security, software developers, and DevOps teams to bake security in from day one to deployment.
+
+I'm really passionate about securing application pipelines by shifting security left and using tools like SCA, SAST, and DAST. I keep up with the latest trends in cloud app security and love finding ways to use AI safely. I’m a big fan of getting security champions on every team and fostering collaboration and knowledge sharing to save time and cut down on fixing vulnerabilities.
+
 
 🧑‍💻 **A few of my key skills are:** 
 <br>
-- AWS Security & Monitoring
-- Containerization (Docker)
+- AWS Cloud, Security & Monitoring (Security Hub | GuardDuty | Inspector | IAM | CloudWatch | CloudTrail | SNS | EC2 | S3 | WAF | & more )
+- Containerization Tools (Docker)
 - CI/CD (Github Actions | Jenkins)
 - IaC (Terraform)
-- SCA, SAST & DAST Tools 
+- SCA, SAST, DAST, & CaC Tools (Trivy | CodeQL | Trufflehog | OWASP ZAP | SonarQube | Inspec | & more) 
 - Scripting (Python | Bash)
-- Monitoring (Splunk | CrowdStrike | Prometheus | Grafana)
+- Monitoring Tools (Splunk | CrowdStrike | Prometheus | Grafana)
 - Linux (Ubuntu | CentOS | Kali)
 - Source contol (GitHub)
 - Databases (MySQL | MariaDB)
@@ -41,7 +44,6 @@ I'm Ryan, an accomplished senior cybersecurity professional with a robust backgr
 - Configuration Management (Ansible)
 - Container Ochestration (Kubernetes)
 - Source contol (GitLab)
-- Cloud Security Posture Management
 - Threat Modeling
 - Container Security
 - Cloud Providers (GCP)
