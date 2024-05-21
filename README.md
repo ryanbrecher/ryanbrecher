@@ -58,7 +58,7 @@ I'm really passionate about securing application pipelines by shifting security 
 <br>
 <br>
 
-☁️ **Certications Goals:** 
+☁️ **Certication Goals:** 
 <br>
 
 
