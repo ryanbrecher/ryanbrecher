@@ -1,23 +1,23 @@
 ### Hey there 👋
 
-I’m Ryan! I’ve been in the IT and cyber security game for a while, focusing on SecOps, DevSecOps and AWS cloud security. My goal is to make sure application pipelines are rock-solid with top-notch security practices. I’m all about working seamlessly with IT Ops, security, software developers, and DevOps teams to bake security in from day one to deployment.
+Hi, I’m Ryan! With a solid background in IT and cybersecurity, I'm currently focused on DevSecOps and AWS cloud security. My goal is to ensure application pipelines are rock-solid with top-notch security practices. I work seamlessly with IT Ops, security, software developers, and DevOps teams to embed security from day one to deployment.
 
-I'm really passionate about securing application pipelines by shifting security left and using tools like SCA, SAST, and DAST. I keep up with the latest trends in cloud app security and love finding ways to use AI safely. I’m a big fan of getting security champions on every team and fostering collaboration and knowledge sharing to save time and cut down on fixing vulnerabilities.
+I'm passionate about securing application pipelines by shifting security left and using tools like SCA, SAST, and DAST. I stay updated on the latest trends in cloud app security and enjoy finding ways to leverage AI safely. I'm a big advocate for having security champions on every team and fostering collaboration and knowledge sharing to save time and reduce vulnerabilities.
 
 
 🧑‍💻 **A few of my key skills are:** 
 <br>
 - AWS Cloud, Security & Monitoring (Security Hub | GuardDuty | Inspector | IAM | CloudWatch | CloudTrail | SNS | EC2 | S3 | WAF | & more )
-- Containerization Tools (Docker)
-- CI/CD (Github Actions | Jenkins)
-- IaC (Terraform)
-- SCA, SAST, DAST, & CaC Tools (Trivy | CodeQL | Trufflehog | OWASP ZAP | SonarQube | Inspec | & more) 
+- Containerization Tools (Docker but learning Kubernetes)
+- CI/CD (Github Actions (preferred) | GitLab CI | Jenkins)
+- IaC (Terraform & Ansible)
+- SCA, SAST, DAST, & CaC Tools (Trivy | CodeQL | Trufflehog | OWASP ZAP | SonarQube | Inspec | Snyk & much more) 
 - Scripting (Python | Bash)
-- Monitoring Tools (Splunk | CrowdStrike | Prometheus | Grafana)
+- Monitoring Tools (Splunk | Prometheus | Grafana)
 - Linux (Ubuntu | CentOS | Kali)
-- Source contol (GitHub)
+- Source contol (Git)
 - Databases (MySQL | MariaDB)
-- Markup (HTML, JSON, YAML)
+- Additional (HTML, Markdown, JSON, YAML)
 - API Security Tools (Postman | Burpsuite)
 - Ticket Management (ServiceNow | Jira)
 
@@ -35,50 +35,3 @@ I'm really passionate about securing application pipelines by shifting security 
     <img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/84add975-dd25-4355-a21e-4ce2ba3262c5" width=48>
 </p>
 
-<br>
-
-💪 **Skills I am wanting to develop further:** 
-<br>
-- AWS (Cloudformation | CodeBuild | CodePipeline)
-- Azure DevOps
-- Configuration Management (Ansible)
-- Container Ochestration (Kubernetes)
-- Source contol (GitLab)
-- Threat Modeling
-- Container Security
-- Cloud Providers (GCP)
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,ansible,gitlab,go,kubernetes" />
-  </a>
-</p>
-
-**NOTE** - Will create repos that reflect my interests where possible. 
-<br>
-<br>
-
-☁️ **Certication Goals:** 
-<br>
-
-
-- Certified DevSecOps Professional (CDP)
-- HashiCorp Certified: Terraform Associate (003)
-- AWS Certified Solutions Architect - Associate
-- AWS Certified Security - Specialty
-- Certified Threat Modeling Professional (CTMP)
-- OffSec Certified Professional (OSCP) 
-- ISC2 Certified Secure Software Lifecycle Professional (CSSLP)
-- ISC2 Certified Cloud Security Professional (CCSP)
-
-<p align="left">
-<img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/5a8a6f25-249e-4355-84d7-061c3e254025" width=48>
-<img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/11fd4758-7754-402d-98b8-78cbb3f65aaf" width=48>
-<img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/6b89a6d9-c1e7-412e-8094-e35c72b0ac52" width=49>
-<img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/498341f8-c57c-4542-aca4-e4dd87a13e99" width=54>
-<img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/f7105f54-ade5-4867-9932-7d2ea090128a" width=48>
-<img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/04490921-e3fc-41e2-9c3d-41b04e5f7372" width=48>
-<img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/3700c398-2158-4064-be04-d28f0df526cb" width=48>
-<img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/06294af1-b1df-4035-8459-437880b3c8d8" width=48>
-
-</p>
