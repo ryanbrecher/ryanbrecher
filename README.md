@@ -21,17 +21,10 @@ I'm passionate about securing application pipelines by shifting security left an
 - API Security Tools (Postman | Burpsuite)
 - Ticket Management (ServiceNow | Jira)
 
+
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,bash,git,github,githubactions,docker,jenkins,vim,html,css,js,jquery,stackoverflow,apple,windows,md,grafana,prometheus,linux,ubuntu,kali,powershell,mysql,py,regex,vscode,kali,terraform,postman">
+     <img src="https://skillicons.dev/icons?i=aws,azure,bash,powershell,git,github,gitlab,githubactions,jenkins,docker,html,css,js,stackoverflow,apple,windows,md,grafana,prometheus,linux,ubuntu,kali,vim,mysql,mongodb,py,regex,vscode,idea,terraform,ansible,postman&perline=16" />
   </a>
-    <img src ="https://github.com/DrllSGT/DrllSGT/assets/52445175/4fdabb67-dc6e-4086-808d-8bab493fcb78" width=48>
-    <img src ="https://github.com/DrllSGT/JenkinsFile-Snyk-SCA-JavaApp/assets/52445175/ff84aab7-372e-4113-9049-fe7dbe4abcc7" width=48> 
-    <img src="https://github.com/DrllSGT/JenkinsFile-SonarCloud-SAST-JavaApp/assets/52445175/0a35f318-c65a-4b32-b060-fcdbdbe098d9" width=48>
-    <img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/544a8ac6-db8a-4c26-b64d-a4d6e059820e" width=48>
-    <img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/ae9ac179-e83f-4c23-a26b-1adad931b7de" width=48>
-    <img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/aeb18931-54b9-4b9b-958d-f9e1f207da5d" width=48>
-    <img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/ce7a84d1-9801-48cc-8ac1-f63dac7cc98a" width=48>
-    <img src="https://github.com/DrllSGT/DrllSGT/assets/52445175/84add975-dd25-4355-a21e-4ce2ba3262c5" width=48>
 </p>
-
