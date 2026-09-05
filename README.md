@@ -6,11 +6,11 @@ I started in infrastructure and networking engineering before moving into securi
 
 ### 🏭 OT and energy sector experience
 
-I spent more than two years embedded within the security team of a global oil and gas organisation operating in the UK energy/CNI sector, working across enterprise IT and OT environments.
+I spent more than two years embedded within the security team of a global oil & gas organisation operating in the UK energy/CNI sector, working across enterprise IT and OT environments.
 
 My experience included:
 
-- OT visibility and monitoring using Nozomi
+- OT visibility, monitoring and reporting using Nozomi
 - Security investigations and vulnerability management
 - Identity security and secure remote access
 - Security review of network, firewall, access and infrastructure changes
@@ -61,7 +61,8 @@ I’m interested in practical security that brings engineering, operations and a
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kali&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ### 🤖 AI tools and governance
 
