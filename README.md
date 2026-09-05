@@ -34,9 +34,9 @@ My work spans:
 My hands-on background helps me connect assurance requirements with how technology is configured, operated and maintained.
 
 - **Infrastructure and networking:** Network security, firewalls, Linux and enterprise infrastructure
-- **Cloud security:** AWS security, identity and monitoring services
-- **Automation and scripting:** Python, Bash, Terraform and Ansible
-- **Security tooling:** Splunk, vulnerability scanning, and application security testing tools
+- **Cloud security:** AWS and Azure security, identity and monitoring services
+- **Automation and scripting:** Python, Bash, and Terraform
+- **Security tooling:** Splunk, vulnerability scanning (Tenable, Qualys, CrowdStrike, Nozomi) and application security testing tools (SCA, SAST, DAST)
 - **Development workflows:** Git, GitHub Actions, Docker and CI/CD security
 
 ### 🌱 What I’m developing
