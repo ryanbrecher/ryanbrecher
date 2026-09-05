@@ -61,6 +61,7 @@ I’m interested in practical security that brings engineering, operations and a
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kali&logoColor=white)
 
 ### 🤖 AI tools and governance
 
